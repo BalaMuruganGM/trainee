@@ -109,6 +109,12 @@ nav p{
     }
 }
 
+@media screen and (max-width:400px) {
+    .nav-web_info .login{
+            font-size: 15px;
+    }
+}
+
 
 
 
